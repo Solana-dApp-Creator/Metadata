@@ -1,0 +1,6 @@
+{
+  "name": "Solana Course Token",
+  "symbol": "COURSE",
+  "description": "A demo token for Solana Professional Education",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/GlobalPayments/image.png"
+}
